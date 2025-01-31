@@ -1,6 +1,6 @@
 # **README**
 
-## **Project Description**
+## **Project Description - front end **
 
 This project is a Java-based application designed for a stationary items sales system. The app includes user login functionality, review management, and order placement features. It utilizes Java Swing for its graphical user interface and ArrayLists to manage user and review data. The core features of the application include:
 
